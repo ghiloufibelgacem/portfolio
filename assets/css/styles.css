@@ -1,4 +1,4 @@
-/*!   
+/*!
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 2.1
  * Author: Xiaoying Riley
@@ -665,4 +665,14 @@ a.dotted-link:hover {
     width: 1360px;
     max-width: inherit;
   }
+}
+/* profile */
+.image--cover
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+  object-fit: cover;
+  object-position: center right;
 }
